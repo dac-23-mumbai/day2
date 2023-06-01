@@ -30,4 +30,7 @@ color:red;
 # HEAD TAG
 
 - CONSTRUCTOR
+
 # day2
+
+- display:flex

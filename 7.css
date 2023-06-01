@@ -1,0 +1,29 @@
+.myparent {
+  height: 200px;
+  background: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2px;
+}
+
+.mychild {
+  font-size: 21px;
+  color: white;
+  font-family: cursive;
+}
+
+.myparent-img {
+  height: 400px;
+  background: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2px;
+}
+
+.myimg {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}

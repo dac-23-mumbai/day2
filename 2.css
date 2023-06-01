@@ -1,0 +1,21 @@
+h1 {
+  background: purple;
+  color: white;
+  padding: 16px;
+  margin: 0;
+}
+
+p {
+  margin-top: 2px;
+  background: lightcoral;
+  padding: 16px;
+  color: white;
+  font-size: 21px;
+
+  font-family: "Pacifico", cursive;
+}
+
+.mypara {
+  background: chocolate;
+  font-family: "Rubik Puddles", cursive;
+}

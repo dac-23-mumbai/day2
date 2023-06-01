@@ -1,0 +1,22 @@
+.mytitle {
+  font-size: 60px;
+}
+
+.mysearch {
+  margin-top: 8px;
+  width: 300px;
+  height: 40px;
+  border-radius: 24px;
+  font-family: cursive;
+  font-size: 21px;
+  padding: 8px;
+}
+
+.mybtn {
+  margin-top: 8px;
+  width: 200px;
+  height: 40px;
+  border-radius: 16px;
+  font-size: 18px;
+  padding: 8px;
+}
